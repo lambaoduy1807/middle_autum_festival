@@ -1,5 +1,5 @@
 body {
-  background-image: url("/img/background.jpg");
+  background-image: url("img/background.jpg");
   background-size: cover;
   background-position: center;
   /* background-repeat: no-repeat;   */
@@ -46,7 +46,7 @@ canvas {
   font-size: 20px;
   text-align: center;
   z-index: 5;
-  background-image: url("/img/banner3.png");
+  background-image: url("img/banner3.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
